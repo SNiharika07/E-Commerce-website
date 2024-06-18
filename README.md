@@ -1,0 +1,2 @@
+# E-Commerce-website
+A modern e-commerce platform featuring a wide range of products, secure checkout, and a user-friendly interface. Built with HTML,CSS and Javascript.
